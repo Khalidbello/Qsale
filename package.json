@@ -1,0 +1,30 @@
+{
+  "name": "qsale",
+  "version": "1.0.0",
+  "description": "make more sale with ease",
+  "main": "qsale.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khalidbello/Qsale.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "affiliate",
+    "marketing",
+    "buy",
+    "sell"
+  ],
+  "author": "Khalid Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khalidbello/Qsale/issues"
+  },
+  "homepage": "https://github.com/Khalidbello/Qsale#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
